@@ -1,7 +1,7 @@
 ### Hi there, I'm Saar 👋
 
-- 🌱 I’m currently studying in the Lev Academic center
-- 👯 I’m looking to collaborate on Unreal Engine 5, and discord.py, twitch API
+- 🌱 I’m currently studying at the Lev Academic Center
+- 👯 I’m looking to collaborate on Unreal Engine 5, discord.py, twitch API
 - 💬 Ask me about discord.py
 - 📫 How to reach me: CupKido#0001 on Discord!
 
