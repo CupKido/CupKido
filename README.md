@@ -9,3 +9,4 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CupKido&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+![Visitor Count](https://profile-counter.glitch.me/CupKido/count.svg)
