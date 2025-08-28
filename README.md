@@ -1,6 +1,6 @@
 ### Hi there, I'm Saar 👋
 
-- 🌱 Lev Academic Center software engineer graduate
+- 🌱 Lev Academic Center software engineering graduate
 - 💬 Ask me about any of my repos
 - 📫 How to reach me: CupKido#0001 on Discord!
 
